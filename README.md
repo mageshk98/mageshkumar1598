@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">I'm 👑 Magesh 😎</h1>
+<h3 align="center">Web Application Developer 💻 & Chef at my home 🤫</h3>
+
 
 <!--
 **mageshkumar1598/mageshkumar1598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
